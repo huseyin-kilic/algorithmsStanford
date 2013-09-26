@@ -1,4 +1,5 @@
-Algorithms: Design and Analysis, Part 1
+Assignments for Algorithms: Design and Analysis, Part 1 <br/>
+Coded in Java
 -------------------------------------------------------
 Question 1: mergesort<br/>
 Compute the number of inversions in an array of integers (mergesort based)
