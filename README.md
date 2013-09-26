@@ -1,4 +1,4 @@
-Algorithms: Design and Analysis, Part 1 Algorithms 
+Algorithms: Design and Analysis, Part 1
 -------------------------------------------------------
 Question 1: mergesort<br/>
 Compute the number of inversions in an array of integers (mergesort based)
